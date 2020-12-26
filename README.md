@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![Newsletter](https://img.shields.io/static/v1?label=Follow&message=My%20Flutter%20Newsletter&color=5FB709&style=for-the-badge)][newsletter]
 
-[<img alt="JohannesMilke | Sponsor" height="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fsponsors.png?alt=media" />][sponsor]
+[<img alt="JohannesMilke | Sponsor" height="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fsponsorme.png?alt=media" />][sponsor]
 
 [![GitHub stars](https://img.shields.io/github/stars/JohannesMilke/qr_code_scanner_example.svg?style=social&label=Star)](https://github.com/JohannesMilke/qr_code_scanner_example) 
 [![GitHub forks](https://img.shields.io/github/forks/JohannesMilke/qr_code_scanner_example.svg?style=social&label=Fork)](https://github.com/JohannesMilke/qr_code_scanner_example/fork)
