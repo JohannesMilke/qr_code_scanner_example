@@ -2,7 +2,9 @@
 [![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![Newsletter](https://img.shields.io/static/v1?label=Follow&message=My%20Flutter%20Newsletter&color=5FB709&style=for-the-badge)][newsletter]
-    
+
+[<img alt="JohannesMilke | Sponsor" height="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fsponsor.png?alt=media" />][sponsor]
+
 [![GitHub stars](https://img.shields.io/github/stars/JohannesMilke/qr_code_scanner_example.svg?style=social&label=Star)](https://github.com/JohannesMilke/qr_code_scanner_example) 
 [![GitHub forks](https://img.shields.io/github/forks/JohannesMilke/qr_code_scanner_example.svg?style=social&label=Fork)](https://github.com/JohannesMilke/qr_code_scanner_example/fork)
 [![GitHub JohannesMilke](https://img.shields.io/github/followers/JohannesMilke?label=follow&style=social)](https://github.com/JohannesMilke)
@@ -51,3 +53,4 @@ alt="Flutter Tutorial - QR Code Scanner App YouTube video" width="480" border="1
 [youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
 [courses]: https://johannesmilke.teachable.com/p/home
 [newsletter]: https://johannesmilke.com/newsletter
+[sponsor]: https://github.com/sponsors/JohannesMilke
