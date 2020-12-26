@@ -21,6 +21,8 @@ Let's build a Generate & Scan QR Codes app with Flutter with which you can share
 
 [<img align="center" alt="JohannesMilke | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />](https://linkedin.com/in/JohannesMilke)&ensp;LinkedIn: [@JohannesMilke](https://linkedin.com/in/JohannesMilke "LinkedIn Johannes Milke")
 
+[<img align="center" alt="JohannesMilke | GitHub" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fgithub.png?alt=media" />](https://github.com/JohannesMilke)&ensp;GitHub: [@JohannesMilke](https://github.com/JohannesMilke "GitHub Johannes Milke")
+
 [<img align="center" alt="JohannesMilke | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />](https://medium.com/@JohannesMilke)&ensp;Medium: [@JohannesMilke](https://medium.com/@JohannesMilke "Medium Johannes Milke")
 
 [<img align="center" alt="JohannesMilke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />](https://johannesmilke.com)&ensp;Website: [@JohannesMilke](https://johannesmilke.com "Website Johannes Milke")
