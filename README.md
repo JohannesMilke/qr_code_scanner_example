@@ -9,6 +9,11 @@
 
 Let's build a Generate & Scan QR Codes app with Flutter with which you can share information easily with your friends.
 
+- [Social Media](#social-media)
+- [Preview](#preview)
+- [Watch Video](#watch-video)
+
+
 ### ⚡&ensp;Social Media
 
 [<img align="center" alt="JohannesMilke | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />](https://www.youtube.com/JohannesMilke?sub_confirmation=1)&ensp;YouTube: [@JohannesMilke](https://www.youtube.com/JohannesMilke?sub_confirmation=1 "YouTube Johannes Milke")
