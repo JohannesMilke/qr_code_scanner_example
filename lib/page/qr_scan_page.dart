@@ -32,7 +32,7 @@ class _QRScanPageState extends State<QRScanPage> {
               ),
               SizedBox(height: 8),
               Text(
-                'QRCode',
+                '$qrCode',
                 style: TextStyle(
                   fontSize: 28,
                   fontWeight: FontWeight.bold,
