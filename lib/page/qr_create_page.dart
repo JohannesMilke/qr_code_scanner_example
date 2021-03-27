@@ -1,5 +1,6 @@
 import 'package:barcode_widget/barcode_widget.dart';
 import 'package:flutter/material.dart';
+import 'package:qr_code_scanner_example/bloc/barcode_bloc.dart';
 import 'package:qr_code_scanner_example/main.dart';
 
 class QRCreatePage extends StatefulWidget {
@@ -8,7 +9,13 @@ class QRCreatePage extends StatefulWidget {
 }
 
 class _QRCreatePageState extends State<QRCreatePage> {
-  final controller = TextEditingController();
+  final barcodeBloc = BarcodeBloc();
+
+  @override
+  void dispose() {
+    barcodeBloc.dispose();
+    super.dispose();
+  }
 
   @override
   Widget build(BuildContext context) => Scaffold(
@@ -21,13 +28,18 @@ class _QRCreatePageState extends State<QRCreatePage> {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                BarcodeWidget(
-                  barcode: Barcode.qrCode(),
-                  color: Colors.white,
-                  data: controller.text ?? 'Hello world',
-                  width: 200,
-                  height: 200,
-                ),
+                StreamBuilder(
+                    initialData: 'Hello World',
+                    stream: barcodeBloc.barcodeStream,
+                    builder: (context, snapshot) {
+                      return BarcodeWidget(
+                        barcode: Barcode.qrCode(),
+                        color: Colors.white,
+                        data: snapshot.data,
+                        width: 200,
+                        height: 200,
+                      );
+                    }),
                 SizedBox(height: 40),
                 Row(
                   children: [
@@ -47,7 +59,7 @@ class _QRCreatePageState extends State<QRCreatePage> {
       );
 
   Widget buildTextField(BuildContext context) => TextField(
-        controller: controller,
+        onChanged: (e) => barcodeBloc.barcodeSink.add(e),
         style: TextStyle(
           color: Colors.white,
           fontWeight: FontWeight.bold,
